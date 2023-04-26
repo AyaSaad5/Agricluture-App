@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600085189522",
+    "project_id": "agriculture-project-691c0",
+    "storage_bucket": "agriculture-project-691c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600085189522:android:bc88d1abffcfbb0a77674b",
+        "android_client_info": {
+          "package_name": "com.example.agric_track_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600085189522-qtne5kb7jjrids5bfkrahio14prsa13p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxehrCFPp_wp3sAz8AvxybNP3NFwAuAI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600085189522-qtne5kb7jjrids5bfkrahio14prsa13p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
